@@ -1,1 +1,1 @@
-# FreeBitcoinGenerator.github.io
+# bitcoingenerator
